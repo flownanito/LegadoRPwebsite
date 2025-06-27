@@ -15,7 +15,7 @@ const products = [
     name: "Gorra Salitre",
     price: "10€",
     image: "https://via.placeholder.com/200x200?text=Gorra"
-  },
+  },  
   {
     id: 3,
     name: "Taza RP",
